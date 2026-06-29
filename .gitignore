@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Font file (downloaded at runtime)
+notebooks/raleway.ttf
+notebooks/raleway-bold.ttf
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
